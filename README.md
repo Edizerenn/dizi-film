@@ -1,2 +1,3 @@
 # dizi-film
 dizi film kaydetme öneri
+film dizi izleme servisi Film ve Dizi İzleme Platformu Kullanım Kılavuzu Bu platform, film ve dizi içeriklerinizi düzenlemenize ve izleme listenizi oluşturmanıza yardımcı olur bir izleme platformu deildirBaşlangıç Uygulamayı açtığınızda, yeni bir hesap oluşturabilir veya mevcut hesabınızla giriş yapabilirsiniz.İçerik Ekleme/Silme Kategoriler altında içerik ekleyebilir veya izlemek istemediğiniz içerikleri silebilirsiniz.Rastgele Öneri Ne izleyeceğinize karar veremiyorsanız, Rastgele İçerik Öner butonuyla öneri alabilirsiniz.İçerik Arama Arama kutusuna içerik adı yazarak arama yapabilirsiniz.Çıkış Yapma: Hesabınızdan çıkmak için Çıkış Yap butonuna tıklayarak oturumunuzu kapatabilirsiniz
